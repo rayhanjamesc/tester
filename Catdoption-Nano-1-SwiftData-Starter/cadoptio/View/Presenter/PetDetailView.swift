@@ -24,7 +24,7 @@ struct PetDetailView: View {
                 .padding(.leading)
                 .font(.largeTitle)
                 .bold()
-            Text("Coba perubahan")
+            Text("Coba ganti perubahan")
                 .foregroundStyle(.gray)
                 .padding(.leading)
             
